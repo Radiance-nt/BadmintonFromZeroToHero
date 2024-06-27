@@ -10,9 +10,11 @@
 [羽毛球运动轨迹和状态](https://zhihu.com/question/479947819/answer/3070882721)
 
 图1为实验（点）和计算（线）得到的羽毛球运动轨迹。
+
 ![fig1](https://picx.zhimg.com/80/v2-1a99547061b9266e9af5ee5ed5aef301_1440w.webp?source=1def8aca)
 
 图2为不同速度大小和出球角度的羽毛球射程。
+
 ![fig2](https://picx.zhimg.com/80/v2-2510696ba0861174f0e1254cee91e9fb_1440w.webp?source=1def8aca)
 
 图中每条曲线上的最高点表示该初速度下最大射程对应的出球角度（最大射程角）。
