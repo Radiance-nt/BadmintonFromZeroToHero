@@ -9,7 +9,8 @@
 ## 原理篇
 
 ### 羽毛球运动轨迹和状态
+
 [羽毛球运动轨迹和状态](https://zhihu.com/question/479947819/answer/3070882721)
 
 ![fig1](https://picx.zhimg.com/80/v2-1a99547061b9266e9af5ee5ed5aef301_1440w.webp?source=1def8aca)
-![fig2](https://picx.zhimg.com/80/v2-1a99547061b9266e9af5ee5ed5aef301_1440w.webp?source=1def8aca)
+![fig2](https://picx.zhimg.com/80/v2-2510696ba0861174f0e1254cee91e9fb_1440w.webp?source=1def8aca)
