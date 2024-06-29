@@ -113,9 +113,13 @@ RICE原则的目的：
 15. 反手过渡（步伐）
 16. 反手高原球（步伐）
 
-## 练习方式
+## 训练方式
 
 ### 肌肉、体能训练
+
+[陈金的步伐、核心、腿部力量训练](https://www.bilibili.com/video/BV1EF411v7kf/)
+
+[核心与髋部灵活性训练](https://www.bilibili.com/video/BV1Gm42157gt/)
 
 ### 动作训练
 
@@ -133,7 +137,7 @@ RICE原则的目的：
 
 #### 侧身转髋
 
-[最形象的慢动作力传导](https://www.bilibili.com/video/BV1Gb421B7KT/))
+[最形象的慢动作力传导](https://www.bilibili.com/video/BV1Gb421B7KT/)
 
 [蹬转起跳腿部细节](https://www.bilibili.com/video/BV1BC4y1c7kU/)
 
