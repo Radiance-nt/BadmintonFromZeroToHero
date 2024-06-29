@@ -129,7 +129,13 @@ RICE原则的目的：
 
 #### 小臂鞭甩
 
+[甩大臂与甩小臂](https://www.bilibili.com/video/BV1Hy421a72Q/)
+
 #### 侧身转髋
+
+[最形象的慢动作力传导](https://www.bilibili.com/video/BV1Gb421B7KT/))
+
+[蹬转起跳腿部细节](https://www.bilibili.com/video/BV1BC4y1c7kU/)
 
 
 
